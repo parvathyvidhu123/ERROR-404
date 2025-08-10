@@ -5,8 +5,8 @@
 
 📂 Project Assets
 
-🎥 Demo Video & PPT: Google Drive Link
-🎨 Canva PPT (view-only): View PPT on Canva
+🎥 Demo Video & PPT:https://drive.google.com/your-demo-and-ppt-link
+🎨 Canva PPT (view-only):https://www.canva.com/design/DAGvrafK1Vg/g_6g6WGRBdEROyrLRoceFw/edit?utm_content=DAGvrafK1Vg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 🛠 Tools & Technologies
 
 💻 Languages: HTML5, CSS3, JavaScript (Vanilla JS)
